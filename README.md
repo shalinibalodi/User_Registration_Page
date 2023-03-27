@@ -8,4 +8,5 @@ Setting up the environment for PHP development in your machine
 4. Set up your_project_folder in the htdocs folder and start coding :))
 
 To view in browser
-1. Open browser and http://localhost/user_registration/registration.php
+1. Open browser and go to (localhost/your_project_folder/)
+
